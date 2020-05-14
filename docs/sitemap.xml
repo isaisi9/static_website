@@ -5,24 +5,34 @@
   <url>
     <loc>https://isaisi9.github.io/static_website/posts/my-first-post/</loc>
     <lastmod>2020-05-13T18:18:17-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://isaisi9.github.io/static_website/posts/</loc>
     <lastmod>2020-05-13T18:18:17-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://isaisi9.github.io/static_website/</loc>
     <lastmod>2020-05-13T18:18:17-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://isaisi9.github.io/static_website/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://isaisi9.github.io/static_website/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
