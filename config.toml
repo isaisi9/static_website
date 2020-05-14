@@ -22,7 +22,7 @@ theme = "ananke"     				# Ruta al tema
 #   #
 #  Configuración de parámetros de la web
 #
-# [params]
+ [params]
 #   favicon     = ""
 #   description = "Laboratorio de experimentos de un matemático"
 #   facebook    = ""
@@ -32,5 +32,5 @@ theme = "ananke"     				# Ruta al tema
 #   github      = ""
 #   linkedin    = ""
 #   background_color_class = "bg-black"
-#   featured_image         = "/images/gohugo-default-sample-hero-image.jpg"
+   featured_image         = "/images/gohugo-default-sample-hero-image.jpg"
 #   recent_posts_number    = 2
