@@ -6,19 +6,19 @@ theme = "ananke"     				# Ruta al tema
 #
 # Configuración adicional del sitio web
 #
-MetaDataFormat         = "yaml" # Formato cabeceras
-DefaultContentLanguage = "es"   # Idioma por defecto del contenido
-SectionPagesMenu       = "main" #
-Paginate               = 3      # Posts por página en main
-googleAnalytics        = ""     # Código para estadísticas web
-enableRobotsTXT        = true   # Buscadores
+# MetaDataFormat         = "yaml" # Formato cabeceras
+# DefaultContentLanguage = "es"   # Idioma por defecto del contenido
+# SectionPagesMenu       = "main" #
+# Paginate               = 3      # Posts por página en main
+# googleAnalytics        = ""     # Código para estadísticas web
+# enableRobotsTXT        = true   # Buscadores
 #
 #  Configuración del mapa de la web
 #
- [sitemap]
-   changefreq = "monthly"
-   priority   = 0.5
-   filename   = "sitemap.xml"
+# [sitemap]
+#   changefreq = "monthly"
+#   priority   = 0.5
+#   filename   = "sitemap.xml"
 #   #
 #  Configuración de parámetros de la web
 #
