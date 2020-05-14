@@ -32,5 +32,5 @@ theme = "ananke"     				# Ruta al tema
 #   github      = ""
 #   linkedin    = ""
 #   background_color_class = "bg-black"
-   featured_image         = "/images/gohugo-default-sample-hero-image.jpg"
+   featured_image         = "/images/intro.jpg"
 #   recent_posts_number    = 2
