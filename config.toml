@@ -31,6 +31,6 @@ theme = "ananke"     				# Ruta al tema
 #   youtube     = ""
 #   github      = ""
 #   linkedin    = ""
-#   background_color_class = "bg-silver"
+#   background_color_class = "bg-black"
    featured_image         = "/images/intro.jpg"
 #   recent_posts_number    = 2
