@@ -1,6 +1,6 @@
 baseURL = "https://isaisi9.github.io/static_website/"     # Enlace a la entrada
 languageCode = "en-es"  			# Idioma
-title = "Tecnologias Web drupo 6"  		# Titulo
+title = "Tecnologias Web Grupo 6"  		# Titulo
 publishDir = "docs"   				# Creacion de archivos
 theme = "ananke"     				# Ruta al tema
 #
