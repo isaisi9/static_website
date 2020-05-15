@@ -1,6 +1,6 @@
 baseURL = "https://isaisi9.github.io/static_website/"     # Enlace a la entrada
 languageCode = "en-es"  			# Idioma
-title = "ALVARO TIENE COVID"  		# Titulo
+title = "ME DIO POR IR AL TIA"  		# Titulo
 publishDir = "docs"   				# Creacion de archivos
 theme = "ananke"     				# Ruta al tema
 #
