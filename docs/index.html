@@ -28,6 +28,39 @@
 <link href="/static_website/index.xml" rel="alternate" type="application/rss+xml" title="TECNOLOGIA" />
 <link href="/static_website/index.xml" rel="feed" type="application/rss+xml" title="TECNOLOGIA" />
 
+     <link rel="stylesheet" type ="text/css" href="/static_website/dist/css/Crimen.css" />     
+        
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+			integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+			crossorigin=""/>
+<script src="/static_website/dist/js/leaflet.js"></script>
+
+  
+  
+  <script>
+        window.onload = function() 
+		{
+            let map = L.map('map').setView([-2.1353837,-79.9622317], 12);
+			L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+			maxZoom: 18
+			}).addTo(map);
+						
+			let circle = L.circle([-2.1503892, -79.923151], 
+			{
+				color: 'red',
+				fillColor: '#f03',
+				fillOpacity: 0.5,
+				radius: 500
+			}).addTo(map);
+			
+			let polygon = L.polygon([
+			[-2.2449727, -79.8996789],
+			[-2.2237854, -79.9031776],
+			[-2.2812920, -79.8804899]
+			]).addTo(map);
+        }
+    </script>
+  
 
 
 <meta property="og:title" content="TECNOLOGIA" />
@@ -40,6 +73,9 @@
 <meta name="twitter:title" content="TECNOLOGIA"/>
 <meta name="twitter:description" content=""/>
 
+  
+  
+  
 </head>
 
 <body class="ma0 avenir bg-near-white">
