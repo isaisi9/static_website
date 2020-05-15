@@ -1,10 +1,14 @@
 baseURL = "https://isaisi9.github.io/static_website/"     # Enlace a la entrada
 languageCode = "en-es"  			# Idioma
+<<<<<<< HEAD
 title = "ME DIO POR IR AL TIA"  		# Titulo
+=======
+title = "TECNOLOGIA WEB"  		# Titulo
+>>>>>>> 3493ac899746aeef5d4bca846d9b230c352d5586
 publishDir = "docs"   				# Creacion de archivos
 theme = "ananke"     				# Ruta al tema
 #
-# Configuración adicional del sitio web
+# Configuración adicional del sitio wed
 #
 # MetaDataFormat         = "yaml" # Formato cabeceras
 # DefaultContentLanguage = "es"   # Idioma por defecto del contenido
